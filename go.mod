@@ -1,4 +1,4 @@
-module github.com/Gear19/STORAGE
+module github.com/Gear19/storage
 
 go 1.21.0
 

@@ -3,7 +3,7 @@ package storage
 import (
 	"fmt"
 
-	"github.com/Gear19/STORAGE/internal/file"
+	"github.com/Gear19/storage/internal/file"
 	"github.com/google/uuid"
 )
 

@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/Gear19/STORAGE/internal/storage"
+	"github.com/Gear19/storage/internal/storage"
 )
 
 func main() {
